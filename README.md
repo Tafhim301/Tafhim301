@@ -35,16 +35,18 @@
 
 ---
 
-## 📊 GitHub Analytics  
-
+# 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tafhim301&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tafhim301&layout=compact&theme=tokyonight" height="180" />
+  
+![](https://github-readme-stats.vercel.app/api?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tafhim301&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tafhim301&theme=tokyonight&hide_border=true" height="180" />
-</p>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ---
 
