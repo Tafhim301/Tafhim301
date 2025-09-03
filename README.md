@@ -54,14 +54,7 @@
 
 ## 📫 Connect With Me  
 
-<p align="center">
-  <a href="mailto:tafhimul301@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tafhim301">
-    <img src="https://img.shields.io/badge/X-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-fawn-phi-37.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+| Gmail | X | GitHub | Portfolio |
+|-------|---|--------|-----------|
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tafhimul301@gmail.com) | [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tafhimul301) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tafhim301) | [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-fawn-phi-37.vercel.app/) |
+
