@@ -29,9 +29,11 @@
 
 🚀 Some of my best works you should check out:  
 
-- 📚 [**Library Management Backend**](https://github.com/Tafhim301/Library_Management_Backend) – Node.js + MongoDB backend for managing library operations.  
-- 💳 [**Digital Wallet Backend**](https://github.com/Tafhim301/Digital-Wallet-Backend) – Secure digital wallet API with Express and Mongoose.  
-- 🌍 [**PH Tour Management Backend**](https://github.com/Tafhim301/PH_Tour_Management-Backend) – Full-featured tour booking backend with SSLCommerz integration.  
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **DigiPay Client** | Frontend for digital wallet system | React, Redux, Tailwind CSS | [DigiPay_Client](https://github.com/Tafhim301/DigiPay_Client) |
+| **Digital Wallet Backend** | Secure digital wallet API | Express, Mongoose | [Digital-Wallet-Backend](https://github.com/Tafhim301/Digital-Wallet-Backend) |
+| **Library Management Backend** | Backend for managing library operations | Node.js, MongoDB | [Library_Management_Backend](https://github.com/Tafhim301/Library_Management_Backend) |
 
 ---
 
