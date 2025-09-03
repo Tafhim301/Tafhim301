@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/j41yJ1t/github-banner.png" alt="Tafhimul Islam Banner" width="100%" />
+  <img src="./github-banner.png" alt="Tafhimul Islam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">Tafhimul Islam</span></h1>
-<h3 align="center">🚀Full Stack Web Developer | Backend Enthusiast | Problem Solver</h3>
+<h3 align="center">🚀Full Stack Web Developer | Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 🌟 About Me  
 
 - 💻 Passionate about **building scalable full-stack applications**.  
-- 🔭 Exploring **AI/ML integration** with modern web technologies.  
 - 🛡️ Strong believer in **clean code, security, and scalability**.  
+- 🔭 Exploring **AI/ML integration** with modern web technologies.  
 - 🌍 Based in **Chattogram, Bangladesh**.  
 
 ---
