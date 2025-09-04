@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./github-banner.png" alt="Tafhimul Islam Banner" width="100%" />
+  <img src="./Cover-Image.png" alt="Tafhimul Islam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">Tafhimul Islam</span></h1>
