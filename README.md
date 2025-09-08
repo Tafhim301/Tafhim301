@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Cover-Image.png" alt="Tafhimul Islam Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dczusykb2/image/upload/v1757311735/Cover-Image_m7ilpw.png" alt="Tafhimul Islam Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#4F46E5;">Tafhimul Islam</span></h1>
