@@ -40,9 +40,9 @@
 # 📊 GitHub Stats:
 <p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=tafhim301&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tafhim301&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&count_private=true)
 
 </p>
 
