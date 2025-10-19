@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=tafhim301&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
